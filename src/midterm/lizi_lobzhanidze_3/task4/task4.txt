@@ -1,0 +1,18 @@
+Unique Words:
+[List of unique words, each on a separate line]
+
+Word Length Count:
+[Word length] : [Number of words with that length]
+[Word length] : [Number of words with that length]
+...
+Unique Words:
+apple
+banana
+orange
+...
+
+Word Length Count:
+4 : 25
+5 : 30
+6 : 15
+...
